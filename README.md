@@ -3,6 +3,12 @@ This project was developed with the goal of gaining a clearer insight into the j
 
 The analysis is based on data from [Luke Barousse's Python Course](https://lukebarousse.com/python) , which offers a solid foundation by providing detailed information on job titles, salaries, locations, and key skills. Through a collection of Python scripts, the project investigates various aspects such as the most sought-after skills, salary trends, and the relationship between demand and pay in the field of data analytics.
 
+# About the dataset
+
+This dataset comprises real job postings in the field of Data Science collected in 2023, featuring a variety of roles such as Data Scientist, Data Engineer, and others. The dataset includes detailed information on job titles, companies, locations, salaries, job types, posting dates, job descriptions, and the skills required for each role.
+
+The dataset was curated specifically for analyzing the job market in the data science domain and is freely available on Hugging Face. It serves as a valuable resource for exploring trends in job demand, skill requirements, and salary ranges, making it an excellent tool for both learning and practical analysis.
+
 # The Questions
 
 Questions to answer in project:
