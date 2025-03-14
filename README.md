@@ -7,7 +7,7 @@ The analysis is based on data from [Luke Barousse's Python Course](https://lukeb
 
 This dataset comprises real job postings in the field of Data Science collected in 2023, featuring a variety of roles such as Data Scientist, Data Engineer, and others. The dataset includes detailed information on job titles, companies, locations, salaries, job types, posting dates, job descriptions, and the skills required for each role.
 
-The dataset was curated specifically for analyzing the job market in the data science domain and is freely available on Hugging Face. It serves as a valuable resource for exploring trends in job demand, skill requirements, and salary ranges, making it an excellent tool for both learning and practical analysis.
+The dataset was curated specifically for analyzing the job market in the data science domain and is freely available on [Hugging Face](https://huggingface.co/datasets/lukebarousse/data_jobs). It serves as a valuable resource for exploring trends in job demand, skill requirements, and salary ranges, making it an excellent tool for both learning and practical analysis.
 
 # The Questions
 
